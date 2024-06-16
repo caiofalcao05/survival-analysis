@@ -1,2 +1,2 @@
 # survival-analysis
-Análise de sobrevivência
+Esse repositório contém os códigos referente a disciplina de análise de sobrevivência - UFF. 
